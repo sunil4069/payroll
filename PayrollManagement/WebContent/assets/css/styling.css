@@ -1,0 +1,135 @@
+@CHARSET "ISO-8859-1";
+
+/*
+	@wrapper class for login page.
+*/
+.wrapper{
+	margin-top: -8px;
+	margin-left: -8px;
+	margin-right:-8px;
+	font-family: sans-serif;
+	font-family: 'Segoe UI', 'Segoe UI Web Regular', 'Segoe UI Symbol', 'Helvetica Neue', 'BBAlpha Sans', 'S60 Sans', Arial, sans-serif;	
+}
+
+/*
+	@header design
+*/
+ .header{
+	background-color :silver;
+	padding: 1px;
+	
+} 
+
+/*
+	@navigation part
+*/
+.nav{
+	border-top:solid;
+	border-top-color:silver;
+	margin-top:0px;
+	height: 30px;
+	font: 8px Geneva, Arial, Helvetica, sans-serif;
+	background: maroon;
+	margin-left: 0px;
+	padding-left: 0px;
+}
+
+/*
+	@design for login form
+*/
+
+.loginbox{
+	padding :25px;
+	/*border : 1px solid black;*/
+	width :340px;
+	margin: 0 auto;
+	line-height:50px;
+}
+.inputbox{
+	margin-bottom:15px;
+	margin-left:5px;
+	width: 200px;
+	height:20px;
+}
+
+.loginbutton{
+	margin-left: 90px;
+	color:#FFFFFF;
+	background-color:green;
+	width:75px;
+	height:28px;
+}
+.loginbutton:HOVER{
+	cursor:pointer;
+	text-decoration:underline;
+}
+.link{
+	text-decoration:none;
+	color:blue;
+	margin-left:90px;
+}
+.link:HOVER {
+	text-decoration:underline;
+}
+.p1{
+	text-align: center;
+	font-size: xx-large;
+}
+
+/*
+	@error message
+*/
+.errormsg{
+	width:400px;
+	height:90px;
+	vertical-align:top;
+	padding: 20px;
+	border: 1px solid red;
+	background-color:#F8E0E0;
+	margin: 0 auto;
+	font-size: 13px;
+}
+
+
+.formheader{
+	font-size:xx-large;
+	margin-left: 50px;
+	font-weight: lighter;
+}
+
+
+.scroll{
+	overflow-y:scroll;
+	width:100%;
+	height:300px;
+}
+.erfpfloanstatement-scroll{
+	overflow-y:scroll;
+	width:100%;
+	height:325px;
+	
+}
+.erfpfstatement-scroll{
+	overflow-y:scroll;
+	width:100%;
+	height:340px;
+	
+}
+table{
+	margin-top:0px;
+}
+
+.printbtn{
+	border:1px solid #00802b;
+	width:100px;
+	height:30px;
+	background-color:transparent;
+}
+.printbtn:hover{
+	background-color:#00802b;
+	color:white;
+}
+
+
+
+

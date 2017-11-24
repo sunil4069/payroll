@@ -1,0 +1,41 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+/*reconsile form design*/
+
+.sameline{
+	float:left;
+}
+
+.margin{
+	margin-top:5px;
+	margin-left:5%;
+}
+.marginvalue{
+	margin-left:8px;
+}
+
+.table {
+  width:2500;  
+}
+table, th, td {
+    border: 1px solid #AEB0FB;
+    border-collapse: collapse;
+}
+th, td {
+    padding: 5px;
+    text-align: left;
+}
+table#t01 tr:nth-child(even) {
+    background-color: #eee;
+}
+table#t01 tr:nth-child(odd) {
+   background-color:#fff;
+}
+table#t01 th	{
+    background-color:#1F8A13;
+    color: white;
+	font-family:Tahoma, Geneva, sans-serif;
+	font-weight:400;
+}

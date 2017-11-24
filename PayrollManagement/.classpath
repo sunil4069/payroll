@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="DbModule"/>
+	<classpathentry kind="src" path="Classes"/>
+	<classpathentry kind="src" path="UserModule"/>
+	<classpathentry kind="src" path="Statements"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jre1.8.0_141">
+		<attributes>
+			<attribute name="owner.project.facets" value="java"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jst.server.core.container/org.eclipse.jst.server.tomcat.runtimeTarget/Apache Tomcat v7.0">
+		<attributes>
+			<attribute name="owner.project.facets" value="jst.web"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="lib" path="F:/soft/LotusOnline/ExternalJars/apache-commons-lang.jar"/>
+	<classpathentry kind="lib" path="F:/soft/LotusOnline/ExternalJars/commons-beanutils-1.9.2.jar"/>
+	<classpathentry kind="lib" path="F:/soft/LotusOnline/ExternalJars/commons-collections-3.2.jar"/>
+	<classpathentry kind="lib" path="F:/soft/LotusOnline/ExternalJars/commons-collections4-4.0.jar"/>
+	<classpathentry kind="lib" path="F:/soft/LotusOnline/ExternalJars/commons-digester-2.0.jar"/>
+	<classpathentry kind="lib" path="F:/soft/LotusOnline/ExternalJars/commons-digester-2.1.0.jar"/>
+	<classpathentry kind="lib" path="F:/soft/LotusOnline/ExternalJars/commons-digester3-3.2.jar"/>
+	<classpathentry kind="lib" path="F:/soft/LotusOnline/ExternalJars/commons-javaflow.jar"/>
+	<classpathentry kind="lib" path="F:/soft/LotusOnline/ExternalJars/commons-logging-1.0.4.jar"/>
+	<classpathentry kind="lib" path="F:/soft/LotusOnline/ExternalJars/commons-logging-1.2-javadoc.jar"/>
+	<classpathentry kind="lib" path="F:/soft/LotusOnline/ExternalJars/groovy-all-1.7.5.jar"/>
+	<classpathentry kind="lib" path="F:/soft/LotusOnline/ExternalJars/itext-2.1.7.jar"/>
+	<classpathentry kind="lib" path="F:/soft/LotusOnline/ExternalJars/jasper-compiler-jdt.jar"/>
+	<classpathentry kind="lib" path="F:/soft/LotusOnline/ExternalJars/jasperreports-5.0.1.jar"/>
+	<classpathentry kind="lib" path="F:/soft/LotusOnline/ExternalJars/jasperreports-5.5.1.jar"/>
+	<classpathentry kind="lib" path="F:/soft/LotusOnline/ExternalJars/jasperreports-applet-5.5.1.jar"/>
+	<classpathentry kind="lib" path="F:/soft/LotusOnline/ExternalJars/jasperreports-fonts-4.5.0.jar"/>
+	<classpathentry kind="lib" path="F:/soft/LotusOnline/ExternalJars/jasperreports-fonts-5.5.1.jar"/>
+	<classpathentry kind="lib" path="F:/soft/LotusOnline/ExternalJars/jasperreports-fonts-light.jar"/>
+	<classpathentry kind="lib" path="F:/soft/LotusOnline/ExternalJars/jasperreports-javaflow.jar"/>
+	<classpathentry kind="lib" path="F:/soft/LotusOnline/ExternalJars/jasperreports-javaflow-5.5.1.jar"/>
+	<classpathentry kind="lib" path="F:/soft/LotusOnline/ExternalJars/jasperreports-javaflow-5.6.0.jar"/>
+	<classpathentry kind="lib" path="F:/soft/LotusOnline/ExternalJars/jasperserver-ireport-plugin-2.0.1.jar"/>
+	<classpathentry kind="lib" path="F:/soft/LotusOnline/ExternalJars/javax.servlet-5.1.12.jar"/>
+	<classpathentry kind="lib" path="F:/soft/LotusOnline/ExternalJars/jxl.jar"/>
+	<classpathentry kind="lib" path="F:/soft/LotusOnline/ExternalJars/log4j-api-2.3.jar"/>
+	<classpathentry kind="lib" path="F:/soft/LotusOnline/ExternalJars/log4j-core-2.3.jar"/>
+	<classpathentry kind="lib" path="F:/soft/LotusOnline/ExternalJars/mysql-connector-java-5.1.21.jar"/>
+	<classpathentry kind="lib" path="F:/soft/LotusOnline/ExternalJars/opencsv-3.4.jar"/>
+	<classpathentry kind="lib" path="F:/soft/LotusOnline/ExternalJars/org.json-0.0.1.jar"/>
+	<classpathentry kind="lib" path="F:/soft/LotusOnline/ExternalJars/poi-3.9-20121203.jar"/>
+	<classpathentry kind="lib" path="F:/soft/LotusOnline/ExternalJars/servlet-api.jar"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>

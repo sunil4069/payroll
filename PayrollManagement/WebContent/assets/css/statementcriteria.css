@@ -1,0 +1,40 @@
+body{
+	font-family:sans-serif;
+}
+.weltext{
+	font-family:sans-serif;
+	font-weight: bold;
+	font-size:150%;
+}
+.input, .select{
+	margin-left:20px;
+	height:35px;
+	text-align:center;
+	color:black;
+	border:1px solid #00802b;
+}
+.select{
+	margin-left:52px;
+	
+}
+.text{
+	font-size:100%;
+	
+}
+.submit{
+	height:40px;
+    background-color: transparent;
+    margin-left:52%;
+    width:150px;
+   border:0.8px solid black;
+   
+}
+
+.panel{
+	margin-left:29%;
+}
+input[type=number]::-webkit-inner-spin-button, 
+input[type=number]::-webkit-outer-spin-button { 
+  -webkit-appearance: none; 
+  margin: 0; 
+}

@@ -1,0 +1,87 @@
+@charset "utf-8";
+/* CSS Document */
+
+.mainbody{
+	background-color:#F0F0F0 ;
+}
+
+/*
+	@text style
+*/
+.inputtext{
+	width:200px;
+	height:20px;
+
+}
+
+.textbgcolor{
+	background-color:#EAEAEA;
+}
+/*
+	@password style
+*/
+.inputpassword{
+	width:200px;
+	height:20px;
+}
+
+/*
+	@submit button
+*/
+.submitbutton{
+	width:75px;
+	height:30px;
+	background:#060;
+	color:#FFF;
+}
+.submitbutton:hover{
+	text-decoration:underline;
+	cursor:pointer;
+}
+
+/*
+	@number style
+*/
+
+.inputnumber{
+	width:200px;
+	height:20px;
+}
+
+/*
+	@date style
+*/
+
+.inputdate{
+	height:20px;
+}
+
+
+/*
+	@new customer design
+*/
+
+.customerbox{
+	margin-left: 50px;
+	margin-top: 30px;
+	border: 1px solid silver;
+	padding: 20px;
+	width: 400px;
+}
+.customerbox:HOVER{
+	border-color: #A8A8A8 ;
+}
+.equal{
+	display:table;
+	
+}
+.row{
+	display:table-row;
+	line-height:50px;
+}
+.row div{
+	display:table-cell;
+}
+.in{
+	width:150px;
+}

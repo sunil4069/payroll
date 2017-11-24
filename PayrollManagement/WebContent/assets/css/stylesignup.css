@@ -1,0 +1,151 @@
+body{
+	margin: 0px auto;
+}
+.main{
+	 margin: 0px auto;background:red;
+	 min-width: 1300px;
+}
+
+.maindiv{
+	height:100%;
+	width:100%;
+	background-size: 100%;
+}
+
+
+.nav{
+	height:70px ;
+	width: 100%;
+	position: fixed;
+
+}
+
+.bl{
+	height:125px;
+	width: 125px;
+	position:absolute;
+	background-size: 100%;
+	float: left;
+	margin: 18px;
+	margin-left: 50px;
+}
+
+.login{
+	height:50px;
+	width:425px;
+	
+	float: right;
+	margin-right: 5px;
+	margin-top:10px;
+}
+	.input{
+		height:30px ;
+		width: 150px;
+		background:white;
+		margin: 2px;
+		border: 2px solid white;
+		background: transparent;
+		padding-left: 5px;
+		color: white;
+		font-family: sans-serif;
+
+	}
+
+	.lbtn{
+		height:35px;
+		width:75px;
+		background:white;
+		border:2px solid white;
+		font-family: sans-serif;
+		font-size: 15px;
+		color: white;
+		font-weight: bold;
+		background: transparent;
+		transition:2s;
+	}
+
+	.lbtn:hover{
+
+		background:#800000;
+		font-weight: bolder;
+		
+		
+	}
+
+
+	.ltext{
+		margin-left:160px;
+		color: white;
+		font-weight: bold;
+		font-family: sans-serif;
+		text-decoration: none;
+		font-size: 10px;
+	}
+
+.signup
+{
+
+	height:89%;
+	width: 100%;
+	padding-top: 70px;
+}
+
+	.sform{
+
+		height:500px;
+		width:250px ;
+		background:#3d3d5c;
+		opacity: 0.8;
+		margin-top:0px;
+		float:right;
+		margin-right: 40px;
+		border-radius: 15px;
+	}
+
+	.sinput{
+		height:25px;
+		width:200px ;
+		margin-left: 20px;
+		border: 0px;
+		border-bottom: 2px solid white;
+		background: transparent;
+		padding-left: 8px;
+		color: white;
+		margin-top: 5px;
+
+	}
+
+	.sbtn{
+
+		height:35px;
+		width:75px;
+		background:white;
+		border:2px solid white;
+		font-family: sans-serif;
+		font-size: 15px;
+		color: white;
+		font-weight: bold;
+		background: transparent;
+		margin-left: 145px;
+		margin-top: 8px;
+		transition:2s;
+	}
+
+	.sbtn:hover{
+		background:#800000;
+		font-weight: bolder;
+		
+	}
+
+	.stext{
+
+		font-size: 20px;
+		color: white;
+		font-weight: bold;
+		font-family: sans-serif;
+		margin-left: 55px;
+		padding-top: 18px;
+
+	}
+
+

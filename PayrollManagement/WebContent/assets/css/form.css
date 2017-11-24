@@ -1,0 +1,101 @@
+
+
+body{
+	margin: 0px auto;
+	font-family: sans-serif;
+}
+
+.form-div{
+	height: 100%;
+	width: 75%;
+	float: right;
+	overflow-y:scroll;
+	
+}
+h3{
+	padding-left: 20%;
+}
+
+.form{
+	height: 100%;
+	width: 75%;
+	float: right;
+	font-weight: bold;
+
+
+}
+
+select, button{
+	 font-size: inherit;
+    margin: 0;
+    overflow: hidden;
+    padding-top: 2px;
+    padding-bottom: 2px;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+
+	width: 30%;
+	margin-bottom: 2%;
+	flex: 1;
+	padding-left: 1%;
+	padding-right: 1%;
+
+}
+
+fieldset{
+	border: none;
+	border-top: 1px solid black;
+
+	margin-bottom: 2%;
+}
+legend{
+	color: #a6a6a6;
+}
+form label{
+	
+	flex: 1;
+	margin-bottom: 0.5%;
+	font-size: 70%;
+}
+table{
+	width: 90%;
+	align-items: right;
+
+}
+
+
+
+td select{
+	width: 200px;
+}
+td input{
+	width: 200px;
+	padding-right: 3px;
+	padding-left: 3px;
+
+
+}
+td{
+	
+	padding-bottom: 1%;
+	align-items: right;
+	
+
+
+}
+
+tr{
+
+}
+button{
+	width: 30%;
+	background-color: #a6a6a6;
+	color: #131512;
+	border: 1px solid #131512;
+	height: 30px;
+	transition: 0.3s;
+}
+button:hover{
+	background-color: #131512;
+	color: white;
+}
